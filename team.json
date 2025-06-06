@@ -1,0 +1,14 @@
+{
+  "members": [
+    {
+      "name": "Toby Smith",
+      "role": "Managing Director & Chartered Financial Planner",
+      "image": "/images/team/toby-smith.jpg"
+    },
+    {
+      "name": "Sarah Green",
+      "role": "Senior Paraplanner",
+      "image": "/images/team/sarah-green.jpg"
+    }
+  ]
+}

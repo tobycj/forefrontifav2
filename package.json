@@ -1,0 +1,25 @@
+{
+  "name": "forefront-ifa-site",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "latest",
+    "framer-motion": "latest",
+    "gray-matter": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "next-seo": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remark": "latest",
+    "remark-html": "latest",
+    "remark-prism": "latest",
+    "tailwindcss": "latest",
+    "@headlessui/react": "latest"
+  }
+}
